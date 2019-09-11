@@ -1,6 +1,10 @@
 this is git file
+<<<<<<< HEAD
  update the cheerypic
 
 
  im updating it now:wq
  h
+=======
+ update the cheerypich
+>>>>>>> stage
